@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+torch
+transformers
+datasets
+lime
+shap
+captum
+jupyter
+ipykernel

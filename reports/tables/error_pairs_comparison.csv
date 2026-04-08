@@ -1,0 +1,7 @@
+true_label,pred_label,lstm_count,rubert_count,difference_rubert_minus_lstm,pair
+neutral,negative,1595,1423,-172,neutral → negative
+negative,neutral,1460,1359,-101,negative → neutral
+positive,neutral,817,579,-238,positive → neutral
+neutral,positive,518,436,-82,neutral → positive
+positive,negative,104,97,-7,positive → negative
+negative,positive,102,52,-50,negative → positive
