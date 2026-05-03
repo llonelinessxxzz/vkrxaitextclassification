@@ -1,0 +1,2 @@
+threshold,positive_rule_target,neutral_rule_target,changed_count,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted
+0.45,neutral,negative,0,0.7802222222222223,0.7809376540583952,0.7802222222222222,0.7805644002005979,0.7809376540583952,0.7802222222222223,0.7805644002005978

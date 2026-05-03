@@ -1,0 +1,2 @@
+epoch,train_loss,train_acc,val_loss,val_acc,max_len,learning_rate,augmented_train_size
+1,0.4069962864486208,0.826627800034294,0.48274435957837486,0.79,192,1e-05,64151

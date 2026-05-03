@@ -1,0 +1,5 @@
+subset,count,original_correct,augmented_correct,fixed_count,new_error_count,changed_prediction_count
+all_test,18000,14067,13957,625,735,1436
+negation_context,9693,7385,7307,413,491,953
+negated_positive_word,986,789,787,27,29,56
+negated_negative_word,399,301,291,8,18,27

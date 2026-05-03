@@ -1,0 +1,6 @@
+subset,count,changed_prediction_count,fixed_count,new_error_count,original_correct,corrected_correct
+all_test,18000,1,0,0,14067,14067
+rule_matched,2253,1,0,0,1678,1678
+negative_rule,1425,1,0,0,1055,1055
+neutral_rule,476,0,0,0,353,353
+positive_rule,454,0,0,0,346,346
